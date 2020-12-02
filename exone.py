@@ -17,7 +17,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-print("Choose  numbers 1, 2, 3, 4")
+print("Choose numbers 1, 2, 3, 4")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
@@ -54,7 +54,7 @@ while True:
         break
 
     else:
-        print("Invalid Input")
+        print("Invalid Input" " Try insted 1-2-3-4")
 
 number = sum(result)
 
