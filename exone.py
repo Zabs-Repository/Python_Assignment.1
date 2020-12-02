@@ -17,7 +17,7 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-print("Pick one of the following numbers 1, 2, 3, 4, 5.")
+print("Choose  numbers 1, 2, 3, 4")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
